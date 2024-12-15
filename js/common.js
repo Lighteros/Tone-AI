@@ -86,9 +86,9 @@ if (isTouchDevice()) {
 
 // global variables
 var prevArrow =
-    '<button type="button" class="slick-prev"><svg class="icon icon-arrow-prev"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="img/sprite.svg#icon-arrow-prev"></use></svg></button>',
+    '<button type="button" class="slick-prev"><img class="layouts__pic" src="img/arrow-left.png" alt=""/></button>',
   nextArrow =
-    '<button type="button" class="slick-next"><svg class="icon icon-arrow-next"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="img/sprite.svg#icon-arrow-next"></use></svg></button>';
+    '<button type="button" class="slick-next"><img class="layouts__pic" src="img/arrow-right.png" alt=""/></button>';
 
 $(document).ready(function () {
   // features
