@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="32px" viewBox="0 0 26 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-1440" transform="translate(-910, -3063)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Sign-up" transform="translate(468, 2925)">
+                <g id="Text-box" transform="translate(0, 108)">
+                    <g id="Button" transform="translate(354, 7)">
+                        <path d="M88,55 L88,42.203125 L94.5,42.203125 L94.5,48.6015625 L114,48.6015625 L114,55 L88,55 Z M94.5,42.203125 L94.5,35.8046875 L101,35.8046875 L101,42.203125 L94.5,42.203125 Z M101,35.8046875 L101,29.40625 L107.5,29.40625 L107.5,35.8046875 L101,35.8046875 Z M107.5,29.40625 L107.5,23 L114,23 L114,29.40625 L107.5,29.40625 Z M94.6145125,42.5412946 L88.1145125,42.5412946 L88.1145125,29.3984375 L91.2965435,29.3984375 L94.6145125,29.3984375 L94.6145125,42.5412946 Z" id="Shape" transform="translate(101, 39) scale(-1, -1) translate(-101, -39)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
