@@ -9776,7 +9776,7 @@ var _typeof =
  * simpleParallax.min - simpleParallax is a simple JavaScript library that gives your website parallax animations on any images or videos,
  * @date: 21-06-2020 13:22:47,
  * @version: 5.5.1,
- * @link: https://simpleparallax.com/
+ * @link: https://simpleparallax.com/ToneAI_eth
  */
 !(function (t, e) {
   "object" ==
